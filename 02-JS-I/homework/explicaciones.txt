@@ -1,0 +1,12 @@
+Explicaciones sobre:
+
+
+Variables: Es un elemento que tiene la caracteristica de guardar informacion y luego poder utilizarla. Las variables poseen un nombre que las identifica.
+
+Strings: Tambien llamadas tambien cadena en español, es una tipo de dato que esta conformado por una sucesion de caracteres.
+
+Funciones: es una porcion/conjunto de codigo que permite reutilizarse tantas veces como se necesite, permitiendo no tener que reescribir todo ese codigo. Pueden poseer argumentos o valores de entrada y puede tambien regresar devolver un resultado denominado return.
+
+Declaraciones: If en castellano "Si" es un condicional mas basico que posiblita el control de flujo, ejecutando un tipo codigo dada cierta condicion.
+
+Valores booleanos: Es un tipo de dato que solo posee dos elementos True / False. Verdadero o Falso.
