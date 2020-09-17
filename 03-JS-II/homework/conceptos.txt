@@ -1,0 +1,12 @@
+Breve explicacion de los conceptos dados en clase.
+
+
+FOR: Es una estructura que nos permite repetir una porcion de codigo una cantidad determindad de veces, se invoca utilizando la palabra reservada 'for' seguido por tres elementos, una primera variable que marca donde da inicio, un segundo elemento que determina cuando va a finalizar, y el tercer elemento el modo en que se incrementa la variable para al canzar el requisito.
+
+Operadores Logicos.
+
+&&: Llamado And o Y en español devolvera el valor true (verdadero) solo cuando las dos expresiones lo sea, si una de ellas no lo fuese devuelve false (falso).
+
+||: Llamado Or o Ó en español devolvera el valor true siempre y cuando una de las expresiones sea verdadera, solo en el caso de que ambos sean falsas sera false.
+
+! : Llamando Not o negacion, invierte el valor booleano, es decir si fuese true seria false, o en caso de false seria true.
