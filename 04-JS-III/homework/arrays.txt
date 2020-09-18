@@ -1,0 +1,1 @@
+Arrays tambien denominado vector o matriz, es una estructura que nos permite almazenar de forma secuencial elementos en una posicion determinada para cada uno. Osea a cada elemento le corresponde una direccion para poder accederla, el primer elemento se encuentra en la posicion 0. La estructura se compone del nombre del vector y entre corchetes los elementos.
